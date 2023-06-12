@@ -1,0 +1,11 @@
+C:\Users\thici\Documents\IFRO\codigos\apresentacao\bin\Debug\apresentacao.exe.config
+C:\Users\thici\Documents\IFRO\codigos\apresentacao\bin\Debug\apresentacao.exe
+C:\Users\thici\Documents\IFRO\codigos\apresentacao\bin\Debug\apresentacao.pdb
+C:\Users\thici\Documents\IFRO\codigos\apresentacao\obj\Debug\apresentacao.csproj.AssemblyReference.cache
+C:\Users\thici\Documents\IFRO\codigos\apresentacao\obj\Debug\apresentacao.csproj.SuggestedBindingRedirects.cache
+C:\Users\thici\Documents\IFRO\codigos\apresentacao\obj\Debug\apresentacao.Form1.resources
+C:\Users\thici\Documents\IFRO\codigos\apresentacao\obj\Debug\apresentacao.Properties.Resources.resources
+C:\Users\thici\Documents\IFRO\codigos\apresentacao\obj\Debug\apresentacao.csproj.GenerateResource.cache
+C:\Users\thici\Documents\IFRO\codigos\apresentacao\obj\Debug\apresentacao.csproj.CoreCompileInputs.cache
+C:\Users\thici\Documents\IFRO\codigos\apresentacao\obj\Debug\apresentacao.exe
+C:\Users\thici\Documents\IFRO\codigos\apresentacao\obj\Debug\apresentacao.pdb

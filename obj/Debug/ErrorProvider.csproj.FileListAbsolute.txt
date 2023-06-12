@@ -1,0 +1,11 @@
+C:\Users\thici\Documents\IFRO\codigos\ErrorProvider\bin\Debug\ErrorProvider.exe.config
+C:\Users\thici\Documents\IFRO\codigos\ErrorProvider\bin\Debug\ErrorProvider.exe
+C:\Users\thici\Documents\IFRO\codigos\ErrorProvider\bin\Debug\ErrorProvider.pdb
+C:\Users\thici\Documents\IFRO\codigos\ErrorProvider\obj\Debug\ErrorProvider.csproj.AssemblyReference.cache
+C:\Users\thici\Documents\IFRO\codigos\ErrorProvider\obj\Debug\ErrorProvider.csproj.SuggestedBindingRedirects.cache
+C:\Users\thici\Documents\IFRO\codigos\ErrorProvider\obj\Debug\apresentacao.Form1.resources
+C:\Users\thici\Documents\IFRO\codigos\ErrorProvider\obj\Debug\ErrorProvider.Properties.Resources.resources
+C:\Users\thici\Documents\IFRO\codigos\ErrorProvider\obj\Debug\ErrorProvider.csproj.GenerateResource.cache
+C:\Users\thici\Documents\IFRO\codigos\ErrorProvider\obj\Debug\ErrorProvider.csproj.CoreCompileInputs.cache
+C:\Users\thici\Documents\IFRO\codigos\ErrorProvider\obj\Debug\ErrorProvider.exe
+C:\Users\thici\Documents\IFRO\codigos\ErrorProvider\obj\Debug\ErrorProvider.pdb
